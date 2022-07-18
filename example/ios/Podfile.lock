@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - zhilong_lamp (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zhilong_lamp (from `.symlinks/plugins/zhilong_lamp/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zhilong_lamp:
+    :path: ".symlinks/plugins/zhilong_lamp/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  zhilong_lamp: 2ed307e39871282a86a07300992b4bfb8955b35b
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
